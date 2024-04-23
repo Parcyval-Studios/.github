@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, we are Parcyvalstudios</h1>
 <h3 align="center">A passionate Gaming Dev Team from Germany</h3>
 
+<img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sp.svg" href="https://uptime.betterstack.com/?utm_source=status_badge">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parcyval-studios&label=Profile%20views&color=0e75b6&style=flat" alt="parcyval-studios" /> </p>
 
 - 🔭 We currently working on [ascending-empires](https://sites.google.com/view/parcyval-studios/ascending-empires)

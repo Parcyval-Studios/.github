@@ -3,6 +3,14 @@
 
 <img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sp.svg" href="https://uptime.betterstack.com/?utm_source=status_badge">
 
+
+> 🛠️ 'cause of an Datacenter-transfer Parcyvalstudios.com is from 1230(EU-Time/BER) until 0200(EU-Time/BER) mighty off
+We will workin' to stay online between the changes.
+
+> ✉️ Mails from @parcyvalstudios.com might be lost current the Transfer-time. Choose an another method between this.
+(f.e. Discord, Twitter etc.)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parcyval-studios&label=Profile%20views&color=0e75b6&style=flat" alt="parcyval-studios" /> </p>
 
 - 🔭 We currently working on [ascending-empires](https://sites.google.com/view/parcyval-studios/ascending-empires)

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parcyval-studios&label=Profile%20views&color=0e75b6&style=flat" alt="parcyval-studios" /> </p>
 
-- 🔭 We currently working on [Descending-empires](https://sites.google.com/view/parcyval-studios/ascending-empires)
+- 🔭 We are currently working on [Descending-Empires](https://sites.google.com/view/parcyval-studios/ascending-empires)
 
 - 🌱 We currently learning **Unity, Blender, C#,**
 

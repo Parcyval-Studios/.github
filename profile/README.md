@@ -5,15 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parcyval-studios&label=Profile%20views&color=0e75b6&style=flat" alt="parcyval-studios" /> </p>
 
-- 🔭 We currently working on [ascending-empires](https://sites.google.com/view/parcyval-studios/ascending-empires)
+- 🔭 We currently working on [Descending-empires](https://sites.google.com/view/parcyval-studios/ascending-empires)
 
 - 🌱 We currently learning **Unity, Blender, C#,**
 
-- 👨‍💻 All of our projects are available at [https://parcyvalstudios.com](https://parcyvalstudios.com)
-
-- 📫 How to reach us **info@parcyvalstudios.com**
-
-- ⚡ Fun fact **Parsy is vegan and TIZEN likes to complicated simple things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
